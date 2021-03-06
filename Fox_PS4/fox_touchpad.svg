@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="263.9px"
+   height="151.2px"
+   viewBox="-827 465.8 263.9 151.2"
+   style="enable-background:new -827 465.8 263.9 151.2;"
+   xml:space="preserve"
+   sodipodi:docname="fox_touchpad.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs27" /><sodipodi:namedview
+   inkscape:document-rotation="0"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1017"
+   id="namedview25"
+   showgrid="false"
+   inkscape:zoom="1.4294865"
+   inkscape:cx="96.841226"
+   inkscape:cy="-12.1653"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:none;}
+	.st1{fill:#4C4C4C;}
+	.st2{fill:#EDEDED;}
+	.st3{fill:#F7F7F7;}
+	.st4{opacity:0.12;}
+	.st5{fill:url(#SVGID_1_);}
+</style>
+<pattern
+   x="-827"
+   y="617"
+   width="71"
+   height="71"
+   patternUnits="userSpaceOnUse"
+   id="New_Pattern_Swatch_5"
+   viewBox="0 -71 71 71"
+   style="overflow:visible;">
+	<g
+   id="g8">
+		<polygon
+   class="st0"
+   points="0,-71 71,-71 71,0 0,0   "
+   id="polygon4" />
+		<path
+   class="st1"
+   d="M41.8-35.5c0,3.5-2.8,6.3-6.3,6.3c-3.5,0-6.3-2.8-6.3-6.3s2.8-6.3,6.3-6.3C39-41.8,41.8-39,41.8-35.5z"
+   id="path6" />
+	</g>
+</pattern>
+<g
+   id="g22">
+	<path
+   class="st2"
+   d="M-563.2,471.4c-0.4-3.2-3.3-5.6-6.5-5.6l0,0H-695h0h-125.3l0,0c-3.2,0-6.1,2.3-6.5,5.6   c-0.1,0.7-0.1,1.4-0.1,2.1v127.4c0,8.9,7.2,16.1,16.1,16.1h115.8h0h115.8c8.9,0,16.1-7.2,16.1-16.1V473.5   C-563.1,472.7-563.1,472-563.2,471.4z"
+   id="path11"
+   style="fill:#c6993d;fill-opacity:1" />
+	<g
+   id="g20">
+		<path
+   class="st3"
+   d="M-567.6,467.7c0-1-0.8-1.9-1.9-1.9H-695h0h-125.6c-1,0-1.9,0.8-1.9,1.9l0,6v123.2c0,8.6,7,15.6,15.6,15.6    h111.9h0h111.9c8.6,0,15.6-7,15.6-15.6V473.7L-567.6,467.7z"
+   id="path13"
+   style="fill:#dba73b;fill-opacity:1" />
+		<g
+   class="st4"
+   id="g18">
+			
+				<pattern
+   id="SVGID_1_"
+   xlink:href="#New_Pattern_Swatch_5"
+   patternTransform="matrix(0.1017 0 0 0.1017 -7106.0005 -7406.6733)"
+   class="st4">
+			</pattern>
+			<path
+   class="st5"
+   d="M-822.5,596.9c0,8.6,7,15.6,15.6,15.6h111.9h0h111.9c8.6,0,15.6-7,15.6-15.6V490.3h-254.9V596.9z"
+   id="path16" />
+		</g>
+	</g>
+</g>
+</svg>
