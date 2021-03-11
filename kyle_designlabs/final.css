@@ -126,7 +126,7 @@
 }
 
 .xbox .start {
-    background-position: 33px 0px;
+    background-position: 33.2px 0px;
     float: right;
 }
 
@@ -142,7 +142,7 @@
     position: absolute;
     background: url(abxy.svg);
     width: 49px;
-    height: 49.5px;
+    height: 49.2px;
 }
 
 .xbox .button.pressed {
@@ -160,7 +160,7 @@
 .xbox .b {
     background-position: -49px 0;
     top: 58px;
-    right: -.8px;
+    right: -1px;
 }
 
 .xbox .x {
