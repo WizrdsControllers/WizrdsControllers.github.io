@@ -2,7 +2,7 @@
 .controller.xbox {
     background: url(base.svg);
     height: 630px;
-    width: 749px;
+    width: 750px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
@@ -20,14 +20,14 @@
 }
 
 .xbox .triggers {
-    width: 446px;
+    width: 448px;
     height: 121px;
     position: absolute;
     left: 152px;
 }
 
 .xbox .trigger {
-    width: 88px;
+    width: 89px;
     height: 121px;
     background: url(trigger.svg);
     opacity: 0;
@@ -52,7 +52,7 @@
 
 .xbox .bumpers {
     position: absolute;
-    width: 519px;
+    width: 521px;
     height: 61px;
     left: 115px;
     top: 129px;
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant,svg);
+    background: url(quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
