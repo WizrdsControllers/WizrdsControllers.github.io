@@ -104,16 +104,16 @@
 
 .xbox .arrows {
     position: absolute;
-    width: 141px;
+    width: 141.6px;
     height: 33px;
-    top: 263px;
-    left: 305px;
+    top: 263.7px;
+    left: 306px;
 }
 
 .xbox .back, .xbox .start {
     background: url(start-select.svg);
-    width: 33px;
-    height: 33px;
+    width: 33.5px;
+    height: 33.5px;
     opacity: 0;
 }
 
@@ -141,8 +141,8 @@
 .xbox .button {
     position: absolute;
     background: url(abxy.svg);
-    width: 48px;
-    height: 49px;
+    width: 49px;
+    height: 49.5px;
 }
 
 .xbox .button.pressed {
@@ -154,13 +154,13 @@
 .xbox .a {
     background-position: 0 0;
     top: 108px;
-    left: 55px;
+    left: 56px;
 }
 
 .xbox .b {
     background-position: -49px 0;
     top: 58px;
-    right: 0px;
+    right: -.8px;
 }
 
 .xbox .x {
@@ -188,7 +188,7 @@
     background: url(stick.svg);
     background-position: -85px 0;
     height: 83px;
-    width: 84px;
+    width: 83px;
 }
 
 .xbox .stick.pressed {
@@ -209,7 +209,7 @@
     position: absolute;
     width: 110px;
     height: 111px;
-    top: 345px;
+    top: 347px;
     left: 223px;
 }
 
