@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="start-select.svg"
+   xml:space="preserve"
+   enable-background="new 0 0 67.409 33.206"
+   viewBox="0 0 67.409 33.206"
+   height="33.206px"
+   width="67.409px"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata57"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs55" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="8.7268394"
+   inkscape:cx="25.147604"
+   inkscape:zoom="5.5963074"
+   showgrid="false"
+   id="namedview53"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<g
+   id="Menu_Pressed">
+	<path
+   style="fill:#ffffff;fill-opacity:1"
+   id="path2"
+   d="M66.909,16.603c0,8.903-7.229,16.103-16.102,16.103   c-8.901,0-16.102-7.2-16.102-16.103c0-8.896,7.2-16.103,16.102-16.103C59.681,0.5,66.909,7.707,66.909,16.603z"
+   stroke-miterlimit="10"
+   stroke="#FFFFFF"
+   fill="#F5F5F5" />
+	<g
+   id="g10">
+		<rect
+   style="fill:#000000;fill-opacity:1"
+   id="rect4"
+   height="1.552"
+   width="14.361"
+   fill="#929493"
+   y="11.978"
+   x="43.612" />
+		<rect
+   style="fill:#000000;fill-opacity:1"
+   id="rect6"
+   height="1.552"
+   width="14.361"
+   fill="#929493"
+   y="15.896"
+   x="43.612" />
+		<rect
+   style="fill:#000000;fill-opacity:1"
+   id="rect8"
+   height="1.532"
+   width="14.361"
+   fill="#929493"
+   y="19.706"
+   x="43.612" />
+	</g>
+</g>
+<g
+   id="Switcher_PRessed">
+	<path
+   style="fill:#ffffff;fill-opacity:1"
+   id="path13"
+   d="M32.706,16.603c0,8.903-7.201,16.103-16.103,16.103   c-8.872,0-16.103-7.2-16.103-16.103C0.5,7.707,7.731,0.5,16.603,0.5C25.505,0.5,32.706,7.707,32.706,16.603z"
+   stroke-miterlimit="10"
+   stroke="#FFFFFF"
+   fill="#F5F5F5" />
+	<g
+   id="g19">
+		<polygon
+   style="fill:#000000;fill-opacity:1"
+   id="polygon15"
+   points="14.087,16.502 11.056,16.502 11.056,12.718 16.528,12.718 16.528,14.039 18.328,14.039     18.328,10.979 9.437,10.979 9.437,18.369 14.087,18.369   "
+   fill="#929493" />
+		<path
+   style="fill:#000000;fill-opacity:1"
+   id="path17"
+   d="M14.837,14.663v7.584h8.96v-7.584H14.837z M21.998,20.447h-5.47v-3.945h5.47V20.447z"
+   fill="#929493" />
+	</g>
+</g>
+<g
+   id="g22">
+</g>
+<g
+   id="g24">
+</g>
+<g
+   id="g26">
+</g>
+<g
+   id="g28">
+</g>
+<g
+   id="g30">
+</g>
+<g
+   id="g32">
+</g>
+<g
+   id="g34">
+</g>
+<g
+   id="g36">
+</g>
+<g
+   id="g38">
+</g>
+<g
+   id="g40">
+</g>
+<g
+   id="g42">
+</g>
+<g
+   id="g44">
+</g>
+<g
+   id="g46">
+</g>
+<g
+   id="g48">
+</g>
+<g
+   id="g50">
+</g>
+</svg>
