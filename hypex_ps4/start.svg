@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="start.svg"
+   xml:space="preserve"
+   enable-background="new -291 373.3 28.4 46.7"
+   viewBox="-291 373.3 28.4 46.7"
+   height="46.7px"
+   width="28.4px"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata13"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs11" /><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="21.073749"
+   inkscape:cx="16.768347"
+   inkscape:zoom="18.586723"
+   showgrid="false"
+   id="namedview9"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
+<g
+   id="g6">
+	<path
+   id="path2"
+   d="M-276.8,375c6.9,0,12.5,5.6,12.5,12.5v18.3c0,6.9-5.6,12.5-12.5,12.5c-6.9,0-12.5-5.6-12.5-12.5v-18.3   C-289.3,380.6-283.7,375-276.8,375 M-276.8,373.3c-7.8,0-14.2,6.4-14.2,14.2v18.3c0,7.8,6.4,14.2,14.2,14.2   c7.8,0,14.2-6.4,14.2-14.2v-18.3C-262.6,379.7-269,373.3-276.8,373.3L-276.8,373.3z"
+   fill="#FFFFFF"
+   style="fill:#f9f9f9;fill-opacity:1" />
+	<path
+   id="path4"
+   d="M-276.8,375c-6.9,0-12.5,5.6-12.5,12.5v18.3c0,6.9,5.6,12.5,12.5,12.5c6.9,0,12.5-5.6,12.5-12.5v-18.3   C-264.3,380.6-269.9,375-276.8,375z"
+   fill="#EFEEE5"
+   style="fill:#ffffff;fill-opacity:1" />
+</g>
+</svg>

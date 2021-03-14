@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="touchpad.svg"
+   xml:space="preserve"
+   style="enable-background:new -827 465.8 263.9 151.2;"
+   viewBox="-827 465.8 263.9 151.2"
+   height="151.2px"
+   width="263.9px"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs27"><pattern
+     patternTransform="matrix(0.3298 9.457588e-002 9.457588e-002 -0.3298 -10180.4512 -7431.5161)"
+     xlink:href="#SVGID_1_-5"
+     id="SVGID_4_" /><pattern
+     overflow="visible"
+     viewBox="0 -231.7 40 103"
+     id="SVGID_1_-5"
+     patternUnits="userSpaceOnUse"
+     height="103"
+     width="40"
+     y="696"
+     x="97"><g
+       id="g38-6"><polygon
+         id="polygon2"
+         points="0,-128.7 40,-128.7 40,-231.7 0,-231.7   "
+         fill="none" /><g
+         id="g36"><polygon
+           id="polygon4-9"
+           points="0,-128.7 40,-128.7 40,-231.7 0,-231.7    "
+           fill="none" /><polygon
+           id="polygon6"
+           points="34.5,-360.5 37.5,-360.5 37.5,-206 34.5,-206    " /><polygon
+           id="polygon8"
+           points="26.5,-360.5 29.5,-360.5 29.5,-206 26.5,-206    " /><polygon
+           id="polygon10"
+           points="18.5,-360.5 21.5,-360.5 21.5,-206 18.5,-206    " /><polygon
+           id="polygon12"
+           points="10.5,-360.5 13.5,-360.5 13.5,-206 10.5,-206    " /><polygon
+           id="polygon14"
+           points="2.5,-360.5 5.5,-360.5 5.5,-206 2.5,-206    " /><polygon
+           id="polygon16"
+           points="34.5,-257.5 37.5,-257.5 37.5,-103 34.5,-103    " /><polygon
+           id="polygon18"
+           points="26.5,-257.5 29.5,-257.5 29.5,-103 26.5,-103    " /><polygon
+           id="polygon20"
+           points="18.5,-257.5 21.5,-257.5 21.5,-103 18.5,-103    " /><polygon
+           id="polygon22"
+           points="10.5,-257.5 13.5,-257.5 13.5,-103 10.5,-103    " /><polygon
+           id="polygon24"
+           points="2.5,-257.5 5.5,-257.5 5.5,-103 2.5,-103    " /><polygon
+           id="polygon26"
+           points="34.5,-154.5 37.5,-154.5 37.5,0 34.5,0    " /><polygon
+           id="polygon28"
+           points="26.5,-154.5 29.5,-154.5 29.5,0 26.5,0    " /><polygon
+           id="polygon30"
+           points="18.5,-154.5 21.5,-154.5 21.5,0 18.5,0    " /><polygon
+           id="polygon32"
+           points="10.5,-154.5 13.5,-154.5 13.5,0 10.5,0    " /><polygon
+           id="polygon34"
+           points="2.5,-154.5 5.5,-154.5 5.5,0 2.5,0    " /></g></g></pattern><pattern
+     patternTransform="matrix(-0.3298 9.457588e-002 -9.457588e-002 -0.3298 -21159.9766 -7429.6616)"
+     xlink:href="#SVGID_2_"
+     id="SVGID_5_" /><pattern
+     overflow="visible"
+     viewBox="0 -231.7 40 103"
+     id="SVGID_2_"
+     patternUnits="userSpaceOnUse"
+     height="103"
+     width="40"
+     y="696"
+     x="97"><g
+       id="g77"><polygon
+         id="polygon41"
+         points="0,-128.7 40,-128.7 40,-231.7 0,-231.7   "
+         fill="none" /><g
+         id="g75"><polygon
+           id="polygon43"
+           points="0,-128.7 40,-128.7 40,-231.7 0,-231.7    "
+           fill="none" /><polygon
+           id="polygon45"
+           points="34.5,-360.5 37.5,-360.5 37.5,-206 34.5,-206    " /><polygon
+           id="polygon47"
+           points="26.5,-360.5 29.5,-360.5 29.5,-206 26.5,-206    " /><polygon
+           id="polygon49"
+           points="18.5,-360.5 21.5,-360.5 21.5,-206 18.5,-206    " /><polygon
+           id="polygon51"
+           points="10.5,-360.5 13.5,-360.5 13.5,-206 10.5,-206    " /><polygon
+           id="polygon53"
+           points="2.5,-360.5 5.5,-360.5 5.5,-206 2.5,-206    " /><polygon
+           id="polygon55"
+           points="34.5,-257.5 37.5,-257.5 37.5,-103 34.5,-103    " /><polygon
+           id="polygon57"
+           points="26.5,-257.5 29.5,-257.5 29.5,-103 26.5,-103    " /><polygon
+           id="polygon59"
+           points="18.5,-257.5 21.5,-257.5 21.5,-103 18.5,-103    " /><polygon
+           id="polygon61"
+           points="10.5,-257.5 13.5,-257.5 13.5,-103 10.5,-103    " /><polygon
+           id="polygon63"
+           points="2.5,-257.5 5.5,-257.5 5.5,-103 2.5,-103    " /><polygon
+           id="polygon65"
+           points="34.5,-154.5 37.5,-154.5 37.5,0 34.5,0    " /><polygon
+           id="polygon67"
+           points="26.5,-154.5 29.5,-154.5 29.5,0 26.5,0    " /><polygon
+           id="polygon69"
+           points="18.5,-154.5 21.5,-154.5 21.5,0 18.5,0    " /><polygon
+           id="polygon71"
+           points="10.5,-154.5 13.5,-154.5 13.5,0 10.5,0    " /><polygon
+           id="polygon73"
+           points="2.5,-154.5 5.5,-154.5 5.5,0 2.5,0    " /></g></g></pattern><pattern
+     opacity="0.12"
+     patternTransform="matrix(0.1017 0 0 -0.1017 -13979.8896 -2289.7598)"
+     xlink:href="#SVGID_3_"
+     id="SVGID_6_" /><pattern
+     overflow="visible"
+     viewBox="0 -71 71 71"
+     id="SVGID_3_"
+     patternUnits="userSpaceOnUse"
+     height="71"
+     width="71"
+     y="696"
+     x="97"><g
+       id="g88"><polygon
+         id="polygon80"
+         points="0,0 71,0 71,-71 0,-71   "
+         fill="none" /><g
+         id="g86"><polygon
+           id="polygon82"
+           points="0,0 71,0 71,-71 0,-71    "
+           fill="none" /><path
+           id="path84"
+           d="M41.8-35.5c0-3.5-2.8-6.3-6.3-6.3s-6.3,2.8-6.3,6.3s2.8,6.3,6.3,6.3S41.8-32,41.8-35.5z"
+           fill="#B3B3B3" /></g></g></pattern></defs><sodipodi:namedview
+   inkscape:current-layer="Layer_1"
+   inkscape:window-maximized="1"
+   inkscape:window-y="-8"
+   inkscape:window-x="-8"
+   inkscape:cy="113.24768"
+   inkscape:cx="140.9055"
+   inkscape:zoom="2.8589729"
+   showgrid="false"
+   id="namedview25"
+   inkscape:window-height="1017"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   inkscape:document-rotation="0" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#4C4C4C;}
+	.st2{fill:#EDEDED;}
+	.st3{fill:#F7F7F7;}
+	.st4{opacity:0.12;}
+	.st5{fill:url(#SVGID_1_);}
+</style>
+<pattern
+   style="overflow:visible;"
+   viewBox="0 -71 71 71"
+   id="New_Pattern_Swatch_5"
+   patternUnits="userSpaceOnUse"
+   height="71"
+   width="71"
+   y="617"
+   x="-827">
+	<g
+   id="g8">
+		<polygon
+   id="polygon4"
+   points="0,-71 71,-71 71,0 0,0   "
+   class="st0" />
+		<path
+   id="path6"
+   d="M41.8-35.5c0,3.5-2.8,6.3-6.3,6.3c-3.5,0-6.3-2.8-6.3-6.3s2.8-6.3,6.3-6.3C39-41.8,41.8-39,41.8-35.5z"
+   class="st1" />
+	</g>
+</pattern>
+<g
+   id="g22">
+	<path
+   style="fill:#f9f9f9"
+   id="path11"
+   d="M-563.2,471.4c-0.4-3.2-3.3-5.6-6.5-5.6l0,0H-695h0h-125.3l0,0c-3.2,0-6.1,2.3-6.5,5.6   c-0.1,0.7-0.1,1.4-0.1,2.1v127.4c0,8.9,7.2,16.1,16.1,16.1h115.8h0h115.8c8.9,0,16.1-7.2,16.1-16.1V473.5   C-563.1,472.7-563.1,472-563.2,471.4z"
+   class="st2" />
+	<g
+   id="g20">
+		<path
+   id="path13"
+   d="M-567.6,467.7c0-1-0.8-1.9-1.9-1.9H-695h0h-125.6c-1,0-1.9,0.8-1.9,1.9l0,6v123.2c0,8.6,7,15.6,15.6,15.6    h111.9h0h111.9c8.6,0,15.6-7,15.6-15.6V473.7L-567.6,467.7z"
+   class="st3"
+   style="fill-opacity:1;fill:#ffffff" />
+		<g
+   id="g18"
+   class="st4">
+			
+				<pattern
+   class="st4"
+   patternTransform="matrix(0.1017 0 0 0.1017 -7106.0005 -7406.6733)"
+   xlink:href="#New_Pattern_Swatch_5"
+   id="SVGID_1_">
+			</pattern>
+			<path
+   id="path16"
+   d="M-822.5,596.9c0,8.6,7,15.6,15.6,15.6h111.9h0h111.9c8.6,0,15.6-7,15.6-15.6V490.3h-254.9V596.9z"
+   class="st5" />
+		</g>
+	</g>
+</g>
+</svg>
