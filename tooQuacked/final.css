@@ -178,43 +178,43 @@
 .xbox .sticks {
     position: absolute;
     width: 371px;
-    height: 196px;
-    top: 239px;
-    left: 144px;
+    height: 197.2px;
+    top: 234.5px;
+    left: 135.3px;
 }
 
 .xbox .stick {
     position: absolute;
-    background: url(xbox-assets/stick.svgz);
-    background-position: -85px 0;
-    height: 83px;
-    width: 83px;
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/e4c30dc3073559aa27c188c4e38c42b84d84b0d9/tooQuacked/stick.svg);
+    height: 83.3px;
+    width: 83.3px;
+}
+.xbox .stick.left {
+    background-position: -87.3px 0;
+    top: 0;
+    left: 0;
+}
+
+.xbox .stick.right {
+    background-position: -174.5px 0;
+    top: 113px;
+    left: 293.6px;
 }
 
 .xbox .stick.pressed {
     background-position: 0 0;
 }
 
-.xbox .stick.left {
-    top: 0;
-    left: 0;
-}
-
-.xbox .stick.right {
-    top: 113px;
-    left: 288px;
-}
-
 .xbox .dpad {
     position: absolute;
-    width: 110px;
-    height: 111px;
-    top: 345px;
-    left: 223px;
+    width: 122px;
+    height: 122px;
+    top: 338.3px;
+    left: 209.7px;
 }
 
 .xbox .face {
-    background: url(xbox-assets/dpad.svgz);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/e4c30dc3073559aa27c188c4e38c42b84d84b0d9/tooQuacked/dpad.svg);
     position: absolute;
     opacity: 0;
 }
@@ -224,11 +224,11 @@
 }
 
 .xbox .face.up {
-    background-position: 34px 0;
+    background-position: 78.1px 2;
     left: 38px;
     top: 0px;
-    width: 34px;
-    height: 56px;
+    width: 43.1px;
+    height: 39px;
 }
 
 .xbox .face.down {
