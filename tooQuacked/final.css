@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/baseNoPaddlesRedCap.svg);
+    background: url(baseNoPaddlesRedCap.svg);
     height: 651.4px;
     width: 741.5px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/baseNoPaddlesRedCap.svg);
+    background: url(baseNoPaddlesRedCap.svg);
 }
 
 .xbox.disconnected {
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/disconnected.svg);
+    background: url(disconnected.svg);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 92.1px;
     height: 126.2px;
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/trigger.svg);
+    background: url(trigger.svg);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 155.9px;
     height: 58.4px;
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/bumper.svg);
+    background: url(bumper.svg);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/quadrant.svg);
+    background: url(quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/start-select.svg);
+    background: url(start-select.svg);
     width: 31.1px;
     height: 31.1px;
     opacity: 0;
@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/0495abd7273ad6a5077f9bd6129046e98531da45/tooQuacked/abxy.svg);
+    background: url(abxy.svg);
     width: 52.7px;
     height: 52.7px;
 }
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/e4c30dc3073559aa27c188c4e38c42b84d84b0d9/tooQuacked/stick.svg);
+    background: url(stick.svg);
     height: 83.3px;
     width: 83.4px;
 }
@@ -211,7 +211,7 @@
     height: 0px;
     top: 338.3px;
     left: 209.7px;
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/7c615f4122b1ca19b9642b3caa95eeeb5ef1f8a8/tooQuacked/dpad.svg)
+    background: url(dpad.svg)
 }
 
 .xbox .fstick.up {
