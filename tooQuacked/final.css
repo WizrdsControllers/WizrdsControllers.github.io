@@ -187,7 +187,7 @@
     position: absolute;
     background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/e4c30dc3073559aa27c188c4e38c42b84d84b0d9/tooQuacked/stick.svg);
     height: 83.3px;
-    width: 83.3px;
+    width: 83.4px;
 }
 .xbox .stick.left {
     background-position: -87.3px 0;
@@ -205,54 +205,77 @@
     background-position: 0 0;
 }
 
-.xbox .dpad {
+.xbox .fstick {
     position: absolute;
-    width: 122px;
-    height: 122px;
+    width: 0px;
+    height: 0px;
     top: 338.3px;
     left: 209.7px;
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/7c615f4122b1ca19b9642b3caa95eeeb5ef1f8a8/tooQuacked/dpad.svg)
 }
 
-.xbox .face {
-    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/7c615f4122b1ca19b9642b3caa95eeeb5ef1f8a8/tooQuacked/dpad.svg);
-    position: absolute;
-    opacity: 0;
-}
-
-.xbox .face.pressed {
-    opacity: 1;
-}
-
-.xbox .face.up {
+.xbox .fstick.up {
     background-position: -78.1px 0px;
-    left: 39.5px;
-    top: -2px;
+    top: 336px;
+    left: 249.1px;
     width: 43.1px;
     height: 43px;
 }
 
-.xbox .face.down {
+.xbox .fstick.down {
     background-position: -238.5px 0px;
-    left: 39.5px;
-    bottom: -1px;
+    left: 249.1px;
+    top: 418.6px;
     width: 43.1px;
     height: 43px;
 }
 
-.xbox .face.left {
+.xbox .fstick.left {
     background-position: 0 0px;
     width: 39px;
-    height: 43.1px;
-    top: 39.4px;
-    left: 1;
+    height: 42.5px;
+    top: 377.7px;
+    left: 210px;
 }
 
-.xbox .face.right {
+.xbox .fstick.right {
     background-position: 157.3px 0px;
     width: 39px;
     height: 43.1px;
-    top: 39.4px;
-    right: 0px;
+    top: 377.7px;
+    left: 292.3px;
+}
+
+.xbox .fstick.up.right {
+    background-position: 195.9px 4px;
+    width: 37.1px;
+    height: 50.1px;
+    top: 334.4px;
+    left: 292.3px;
+}
+
+.xbox .fstick.up.left {
+    background-position: -41px 4px;
+    width: 36.6px;
+    height: 48px;
+    top: 334.4px;
+    left: 213.6px;
+}
+
+.xbox .fstick.down.right {
+    background-position: -201px 4px;
+    width: 37.1px;
+    height: 48px;
+    top: 412.5px;
+    left: 292.3px;
+}
+
+.xbox .fstick.down.left {
+    background-position: -281.8px 4px;
+    width: 36.8px;
+    height: 48px;
+    top: 412.5px;
+    left: 212.3px;
 }
 
 .xbox.half {
