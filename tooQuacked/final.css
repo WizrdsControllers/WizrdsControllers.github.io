@@ -205,6 +205,56 @@
     background-position: 0 0;
 }
 
+.xbox .dpad {
+    position: absolute;
+    width: 110px;
+    height: 111px;
+    top: 345px;
+    left: 223px;
+}
+
+.xbox .face {
+    background: url(quadrant.svg);
+    position: absolute;
+    opacity: 0;
+}
+
+.xbox .face.pressed {
+    opacity: 1;
+}
+
+.xbox .face.up {
+    background-position: 34px 0;
+    left: 38px;
+    top: 0px;
+    width: 34px;
+    height: 56px;
+}
+
+.xbox .face.down {
+    left: 38px;
+    bottom: 0;
+    width: 34px;
+    height: 56px;
+}
+
+.xbox .face.left {
+    background-position: 0 -93px;
+    width: 55px;
+    height: 35px;
+    top: 38px;
+    left: 0;
+}
+
+.xbox .face.right {
+    background-position: 0 -57px;
+    width: 55px;
+    height: 35px;
+    top: 38px;
+    right: 0;
+}
+
+
 .xbox .fstick {
     position: absolute;
     width: 0px;
