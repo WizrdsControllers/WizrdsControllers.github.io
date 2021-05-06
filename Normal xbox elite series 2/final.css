@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(basePaddles.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/27fd3ec29f99c6008c1cbca6d2254f607fb8ed04/Normal%20xbox%20elite%20series%202/basePaddles.svg);
     height: 651.4px;
     width: 741.5px;
     /*    margin-left: -375px;
@@ -8,11 +8,11 @@
 }
 
 .xbox.white {
-    background: url(basePaddles.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/27fd3ec29f99c6008c1cbca6d2254f607fb8ed04/Normal%20xbox%20elite%20series%202/basePaddles.svg);
 }
 
 .xbox.disconnected {
-    background: url(disconnected.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/92388f0cb758a90b0d5ab2e4b5c654cd649ffa3d/Normal%20xbox%20elite%20series%202/disconnected.svg);
 }
 
 .xbox.disconnected div {
@@ -29,7 +29,7 @@
 .xbox .trigger {
     width: 92.1px;
     height: 126.2px;
-    background: url(trigger.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/92388f0cb758a90b0d5ab2e4b5c654cd649ffa3d/Normal%20xbox%20elite%20series%202/trigger.svg);
     opacity: 0;
 }
 
@@ -46,7 +46,7 @@
 .xbox .bumper {
     width: 155.9px;
     height: 58.4px;
-    background: url(bumper.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/92388f0cb758a90b0d5ab2e4b5c654cd649ffa3d/Normal%20xbox%20elite%20series%202/bumper.svg);
     opacity: 0;
 }
 
@@ -74,7 +74,7 @@
 
 .xbox .quadrant {
     position: absolute;
-    background: url(quadrant.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/92388f0cb758a90b0d5ab2e4b5c654cd649ffa3d/Normal%20xbox%20elite%20series%202/quadrant.svg);
     height: 45px;
     width: 45px;
     top: 258px;
@@ -111,7 +111,7 @@
 }
 
 .xbox .back, .xbox .start {
-    background: url(start-select.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/92388f0cb758a90b0d5ab2e4b5c654cd649ffa3d/Normal%20xbox%20elite%20series%202/start-select.svg);
     width: 31.1px;
     height: 31.1px;
     opacity: 0;
@@ -132,47 +132,47 @@
 
 .xbox .abxy {
     position: absolute;
-    width: 156.7px;
-    height: 156.7px;
-    top: 199.9px;
-    left: 487.1px;
+    width: 650px;
+    height: 740px;
+    top: 150px;
+    left: 150px;
 }
 
 .xbox .button {
     position: absolute;
-    background: url(xyabpaddles.svg);
-    width: 52.7px;
-    height: 52.7px;
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/27fd3ec29f99c6008c1cbca6d2254f607fb8ed04/Normal%20xbox%20elite%20series%202/xyabpaddles.svg);
+    width: 394.1px;
+    height: 358.8px;
 }
 
 .xbox .button.pressed {
-    background-position-y: -54.7px;
+    background-position-y: -400px;
     margin-top: 0px;
     opacity: 1;
 }
 
 .xbox .a {
-    background-position: 0 0;
-    top: 104px;
-    left: 51.2px;
+    background-position: -935.4px 0;
+    top: 49.4px;
+    right: -80.9px;
 }
 
 .xbox .b {
-    background-position: -54.7px 0;
-    top: 52.8px;
-    right: 0px;
+    background-position: -1074px 0px;
+    top: 101.9px;
+    right: 155.5px;
 }
 
 .xbox .x {
-    background-position: -109.4px 0;
-    top: 51.2px;
-    left: 0px;
+    background-position: 0px 0;
+    top: 92px;
+    left: 3.5px;
 }
 
 .xbox .y {
-    background-position: -164.1px 0;
-    left: 52.8px;
-    top: 0px;
+    background-position: -394.1px 0;
+    left: 49px;
+    top: 49.5px;
 }
 
 .xbox .sticks {
@@ -185,7 +185,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.svg);
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/92388f0cb758a90b0d5ab2e4b5c654cd649ffa3d/Normal%20xbox%20elite%20series%202/stick.svg);
     height: 83.3px;
     width: 83.4px;
 }
@@ -261,7 +261,7 @@
     height: 0px;
     top: 338.3px;
     left: 209.7px;
-    background: url(dpad.svg)
+    background: url(https://raw.githubusercontent.com/WizrdsControllers/WizrdsControllers.github.io/92388f0cb758a90b0d5ab2e4b5c654cd649ffa3d/Normal%20xbox%20elite%20series%202/dpad.svg)
 }
 
 .xbox .fstick.up {
