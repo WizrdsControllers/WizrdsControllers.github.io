@@ -44,7 +44,7 @@
 }
 
 .xbox .bumper {
-    width: 170px;
+    width: 356.238px;
     height: 122.261px;
     background: url(bumper.svg);
     opacity: 0;
@@ -52,10 +52,10 @@
 
 .xbox .bumpers {
     position: absolute;
-    width: 536px;
-    height: 61px;
-    left: 107px;
-    top: 129px;
+    width: 1167.755px;
+    height: 122.261px;
+    left: 164.478px;
+    top: 159.019px;
 }
 
 .xbox .bumper.pressed {
@@ -104,16 +104,16 @@
 
 .xbox .arrows {
     position: absolute;
-    width: 141px;
-    height: 33px;
-    top: 264px;
-    left: 306px;
+    width: 436.027px;
+    height: 65.491px;
+    top: 325.997px;
+    left: 530.341px;
 }
 
 .xbox .back, .xbox .start {
     background: url(start-select.svg);
-    width: 33px;
-    height: 33px;
+    width: 64.988px;
+    height: 64.988px;
     opacity: 0;
 }
 
@@ -132,17 +132,17 @@
 
 .xbox .abxy {
     position: absolute;
-    width: 153px;
-    height: 156px;
-    top: 192px;
-    left: 488px;
+    width: 345.375px;
+    height: 314.616px;
+    top: 314.072px;
+    left: 968.860px;
 }
 
 .xbox .button {
     position: absolute;
     background: url(abxy.svg);
-    width: 48px;
-    height: 48px;
+    width: 111.677px;
+    height: 111.677px;
 }
 
 .xbox .button.pressed {
