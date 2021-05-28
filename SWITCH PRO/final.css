@@ -1,8 +1,8 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
     background: url(base-white-fix.svg);
-    height: 630px;
-    width: 750px;
+    height: 1195.159px;
+    width: 1496.866px;
     /*    margin-left: -375px;
         margin-top: -285px;*/
 }
@@ -20,15 +20,15 @@
 }
 
 .xbox .triggers {
-    width: 446px;
-    height: 121px;
+    width: 1086.216px;
+    height: 180.595px;
     position: absolute;
-    left: 152px;
+    left: 205.708px;
 }
 
 .xbox .trigger {
-    width: 88px;
-    height: 121px;
+    width: 239.192px;
+    height: 180.595px;
     background: url(trigger.svg);
     opacity: 0;
 }
@@ -45,7 +45,7 @@
 
 .xbox .bumper {
     width: 170px;
-    height: 61px;
+    height: 122.261px;
     background: url(bumper.svg);
     opacity: 0;
 }
