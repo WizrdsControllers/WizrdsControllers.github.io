@@ -1,4 +1,4 @@
-/*BEGIN Xbox One Controller Styling*/
+/*BEGIN Wizrdsonly Switch PRO Controller Styling for JaySkilling*/
 .controller.xbox {
     background: url(base-white-fix.svg);
     height: 1195.159px;
@@ -23,7 +23,7 @@
     width: 1086.216px;
     height: 180.595px;
     position: absolute;
-    left: 205.708px;
+    left: 206px;
 }
 
 .xbox .trigger {
@@ -106,7 +106,7 @@
     position: absolute;
     width: 436.027px;
     height: 65.491px;
-    top: 325.997px;
+    top: 326.3px;
     left: 530.341px;
 }
 
@@ -126,7 +126,7 @@
 }
 
 .xbox .start {
-    background-position: 33px 0px;
+    background-position: 65px 0px;
     float: right;
 }
 
@@ -135,7 +135,7 @@
     width: 345.375px;
     height: 314.616px;
     top: 314.072px;
-    left: 968.860px;
+    left: 969px;
 }
 
 .xbox .button {
@@ -146,53 +146,53 @@
 }
 
 .xbox .button.pressed {
-    background-position-y: -48px;
-    margin-top: 5px;
+    background-position-y: -116.653px;
+    margin-top: 0px;
     opacity: 1;
 }
 
 .xbox .a {
-    background-position: 0 0;
-    top: 108px;
-    left: 55px;
+    background-position: -116.653px 0;
+    top: 202.9px;
+    left: 116.850px;
 }
 
 .xbox .b {
-    background-position: -49px 0;
-    top: 58px;
+    background-position: 0px 0;
+    top: 101.293px;
     right: 0px;
 }
 
 .xbox .x {
-    background-position: -98px 0;
-    top: 58px;
-    left: 4px;
+    background-position: -349.959px 0;
+    top: 101.293px;
+    left: 0px;
 }
 
 .xbox .y {
-    background-position: 48px 0;
-    left: 55px;
-    top: 7px;
+    background-position: -233.306px 0;
+    left: 116.850px;
+    top: 0px;
 }
 
 .xbox .sticks {
     position: absolute;
     width: 371px;
     height: 196px;
-    top: 239px;
-    left: 144px;
+    top: 382.534px;
+    left: 249.330px;
 }
 
 .xbox .stick {
     position: absolute;
     background: url(stick.svg);
-    background-position: -85px 0;
-    height: 83px;
-    width: 83px;
+    background-position: 0px 0;
+    height: 170.378px;
+    width: 170.378px;
 }
 
 .xbox .stick.pressed {
-    background-position: 0 0;
+    background-position: -175px 0;
 }
 
 .xbox .stick.left {
@@ -201,16 +201,16 @@
 }
 
 .xbox .stick.right {
-    top: 113px;
-    left: 288px;
+    top: 209.800px;
+    left: 608.852px;
 }
 
 .xbox .dpad {
     position: absolute;
-    width: 110px;
-    height: 111px;
-    top: 345px;
-    left: 223px;
+    width: 218.108px;
+    height: 218.108px;
+    top: 568.104px;
+    left: 407.249px;
 }
 
 .xbox .face {
@@ -224,33 +224,34 @@
 }
 
 .xbox .face.up {
-    background-position: 34px 0;
-    left: 38px;
+    background-position: 0px 0;
+    left: 75px;
     top: 0px;
-    width: 34px;
-    height: 56px;
+    width: 69.529px;
+    height: 74.289px;
 }
 
 .xbox .face.down {
-    left: 38px;
+    background-position: -74.9px 0;
+    left: 74.289px;
     bottom: 0;
-    width: 34px;
-    height: 56px;
+    width: 69.529px;
+    height: 74.289px;
 }
 
 .xbox .face.left {
-    background-position: 0 -93px;
-    width: 55px;
-    height: 35px;
-    top: 38px;
+    background-position: -149.059px 0px;
+    width: 74.289px;
+    height: 71.5px;
+    top: 72px;
     left: 0;
 }
 
 .xbox .face.right {
-    background-position: 0 -57px;
-    width: 55px;
-    height: 35px;
-    top: 38px;
+    background-position: -228.99px 0px;
+    width: 74.289px;
+    height: 71.5px;
+    top: 72px;
     right: 0;
 }
 
@@ -262,4 +263,4 @@
     background: no-repeat center;
 }
 
-/*END Xbox One Controller Styling*/
+/*END Wizrdsonly Switch PRO Controller Styling for JaySkilling*/
