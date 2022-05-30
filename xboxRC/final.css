@@ -146,33 +146,33 @@
 }
 
 .xbox .button.pressed {
-    background-position-y: -48px;
-    margin-top: 5px;
+    background-position-y: -4px;
+    margin-top: 0px;
     opacity: 1;
 }
 
 .xbox .a {
     background-position: 0 0;
-    top: 108px;
+    top: 114.5px;
     left: 55px;
 }
 
 .xbox .b {
     background-position: -49px 0;
-    top: 58px;
+    top: 64.5px;
     right: 0px;
 }
 
 .xbox .x {
     background-position: -98px 0;
-    top: 58px;
+    top: 64.5px;
     left: 4px;
 }
 
 .xbox .y {
     background-position: 48px 0;
-    left: 55px;
-    top: 7px;
+    left: 54px;
+    top: 13.5px;
 }
 
 .xbox .sticks {
@@ -188,7 +188,7 @@
     background: url(stick.svg);
     background-position: -85px 0;
     height: 83px;
-    width: 83px;
+    width: 84px;
 }
 
 .xbox .stick.pressed {
